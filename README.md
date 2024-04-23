@@ -1,15 +1,15 @@
 # Simple-Posts-Web-App
-#Overview
+# Overview
 This is a simple web app built with Express.js and EJS for creating, browsing, editing, and deleting posts.
-#Features
+# Features
 Create, view, edit, and delete posts.
 Lightweight and easy to use.
-#Usage
+# Usage
 Clone the repository.
 Install dependencies: npm install
 Start the server: npm start
 Access the app at http://localhost:8080/posts
-#Contributing
+# Contributing
 Contributions are welcome! Open an issue or submit a pull request for improvements.
-#License
+# License
 MIT License
