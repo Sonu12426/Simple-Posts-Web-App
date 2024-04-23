@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/style.css">
+
+    <title>show your post in detail</title>
+</head>
+<body>
+    <h1>Quara Posts</h1>
+    <h1>hello this page is working now!</h1>
+    <div class="post">
+        <h3>Id: <%= post.id %></h3>
+        <h2 class="user"> @<%=post.username %> </h2>
+        <h3 class="content"> <%= post.content %> </h3>
+     
+    </div>
+    <a href="http://localhost:8080/posts">Back to Home Page</a>
+</body>
+</html>
